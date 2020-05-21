@@ -5,5 +5,5 @@ This app calls the REST API and displays post with pagination. `FlatList`is used
 ### Screenshots
 ![First](screenshots/First.jpg)
 ![Error](screenshots/Error.jpg)
-![Loading](Loading.jpg)
-![Posts](Posts.jpg)
+![Loading](screenshots/Loading.jpg)
+![Posts](screenshots/Posts.jpg)
