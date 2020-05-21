@@ -3,14 +3,6 @@ import {  View, FlatList, SafeAreaView} from 'react-native'
 import { Caption, Headline, Subheading, ActivityIndicator } from "react-native-paper";
 import { Post } from "./components/Post";
 
-const footer = ()=>{
-    return (
-        <View>
-            <ActivityIndicator animating size="small"/>
-        </View>
-    )
-}
-
 export class HomePage extends Component {
     state = {
         loading : true,
